@@ -8,4 +8,5 @@ Messy but usable.
 > 04: HW5ANS - Tree BFT, DFT by Stack and Queue <br>
 
 #### Final
-> 05: hw6 - Binary Search Trees
+> 05: hw6 - Binary Search Trees<br>
+> 06: hw7 - AVLTree, SplayTree, Binary Search Tree (non-recursive version) [+] Merge, Split, Rotation, Rebalance
