@@ -9,4 +9,5 @@ Messy but usable.
 
 #### Final
 > 05: hw6 - Binary Search Trees<br>
-> 06: hw7 - AVLTree, SplayTree, Binary Search Tree (non-recursive version) [+] Merge, Split, Rotation, Rebalance
+> 06: hw7 - AVLTree, SplayTree, Binary Search Tree (non-recursive version) [+] Merge, Split, Rotation, Rebalance <br>
+> 07: hw8 - Stock Market Simulation [Priority Queues with Binary Min-Heaps -> (Array as complete binary trees) ]
